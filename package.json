@@ -1,0 +1,43 @@
+{
+  "Name": "QMLAPI",
+  "version": "0.1.0",
+  "description": "QMLAPI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "qml",
+    "limo service",
+    "rental car",
+    "playback"
+  ],
+  "dependencies": {
+    "async": "^2.0.1",
+    "aws-sdk": "^2.6.2",
+    "bluebird": "^3.4.1",
+    "body-parser": "^1.15.2",
+    "compression": "^1.6.2",
+    "cookie-parser": "^1.4.3",
+    "cryptlib": "^1.0.3",
+    "csurf": "^1.9.0",
+    "express": "^4.14.0",
+    "express-session": "^1.14.1",
+    "helmet": "^2.1.3",
+    "jsonwebtoken": "^7.1.9",
+    "jwt-decode": "^2.1.0",
+    "knex": "^0.11.10",
+    "line-reader": "0.4.0",
+    "lodash": "^4.15.0",
+    "morgan": "^1.7.0",
+    "mysql": "^2.16.0",
+    "passport": "^0.3.2",
+    "passport-http": "^0.3.0",
+    "passport-http-bearer": "^1.0.1",
+    "pm2": "^1.1.3",
+    "redis": "^2.8.0",
+    "winston": "^2.2.0"
+  },
+  "author": "Intellimedianetworks",
+  "license": "ISC"
+}

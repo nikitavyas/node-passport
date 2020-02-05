@@ -1,0 +1,36 @@
+﻿{
+    "appname": "SynergyAPI",
+    "apiversion": "0.1",
+    "api": {
+        "PORT": "3000"
+    },
+    "appuser": "mahendra",
+    "appsecret": "Fw4qKtF",
+    "boxsecret": "z94kh6J",
+    "crypto": {
+        "IV": "v3u2ev9deo@a01c_",
+        "KEY": "@54#@in#@i3#a01c"
+    },
+    "aws": {
+        "accesskey": "AKIAJAY4SFIRNG44JGXA",
+        "secretkey": "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",
+        "region": "ap-southeast-1",
+        "bucket": "dcinemaingestsg/logs"
+    },
+    "ftp": {
+        "host": "52.66.176.130",
+        "port": "21",
+        "user": "dcinemalogs",
+        "password": "sangreal@123",
+        "path": "C:\\dcinemalogs\\"
+    },
+    "db": {
+        "audit": {
+            "host": "52.3.70.1",
+            "port": "3306",
+            "user": "imedia",
+            "password": "imedia2006",
+            "name": "DCinemaAudit"
+        }
+    }
+}
